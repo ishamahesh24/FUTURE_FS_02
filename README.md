@@ -18,7 +18,7 @@ Built a responsive, user-friendly online grocery store leveraging modern front-e
 <h2>Add to cart page</h2>
 <img width="1031" height="678" alt="Screenshot 2025-08-15 133028" src="https://github.com/user-attachments/assets/4a0089d4-7d19-4b33-9565-f695fff84534" />
 <img width="516" height="630" alt="Screenshot 2025-08-15 133046" src="https://github.com/user-attachments/assets/2c087fa5-67a8-44bb-9939-15afa2d4434b" />
-<img width="464" height="569" alt="Screenshot 2025-08-15 133052" src="https://github.com/user-attachments/assets/e62089d8-5642-4000-96e7-64378a6f5635" />
+<img width="460" height="757" alt="Screenshot 2025-08-15 144544" src="https://github.com/user-attachments/assets/2798b4c0-3f15-4949-b51b-43eeaedbde16" />
 <img width="475" height="635" alt="Screenshot 2025-08-15 133100" src="https://github.com/user-attachments/assets/72a61da7-66c6-4f14-8874-0f9d1723184a" />
 <img width="536" height="665" alt="Screenshot 2025-08-15 133110" src="https://github.com/user-attachments/assets/068c92c7-dcab-4795-ae31-d72d5cf61c28" />
 
