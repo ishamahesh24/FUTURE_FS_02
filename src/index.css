@@ -1,0 +1,27 @@
+@import "tailwindcss";
+
+@theme {
+  --breakpoint-sm: 640px;
+  --breakpoint-md: 768px;
+  --breakpoint-lg: 1024px;
+  --breakpoint-xl: 1280px;
+  --breakpoint-2xl: 1670px;
+  --color-accent: #179957;
+  --color-accent-dark: #184D47;
+  --font-poppins: Poppins, sans-serif;
+
+}
+
+.container{
+    max-width: 80%;
+    margin: auto;
+}
+
+@layer components {
+  .icon__wrapper {
+    @apply border border-gray-400 rounded-full w-[45px] h-[45px] grid place-items-center text-[22px];
+  }
+  .feature_btn{
+    @apply bg-accent text-white px-4 py-1 rounded-full;
+  }
+}
